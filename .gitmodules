@@ -1,0 +1,6 @@
+[submodule "gloomy-func1"]
+	path = gloomy-func1
+	url = ../gloomy-func1
+[submodule "gloomy-set-commands"]
+	path = gloomy-set-commands
+	url = ../gloomy-set-commands
